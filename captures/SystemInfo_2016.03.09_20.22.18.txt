@@ -1,0 +1,90 @@
+Applications Graphics Acceleration Info:
+Uptime: 12116818 Realtime: 12116818
+
+** Graphics info for pid 22231 [com.demo.demobatterystatus] **
+
+Recent DisplayList operations
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+        DrawRenderNode
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+        DrawRenderNode
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+        DrawRenderNode
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+        DrawRenderNode
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+        DrawRenderNode
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+        DrawRenderNode
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+    RestoreToCount
+  DrawRenderNode
+    DrawRenderNode
+      DrawRect
+RestoreToCount
+DrawRect
+DrawRect
+DrawRect
+DrawBitmapRect
+DrawBitmap
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            33608 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Garbage layers              0
+  Active layers               0
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TessellationCache           0 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  557896 bytes, 0.53 MB
+
+Profile data in ms:
+
+	com.demo.demobatterystatus/com.demo.demobatterystatus.BatteryStatusActivity/android.view.ViewRootImpl@321dd96d (visibility=0)
+View hierarchy:
+
+  com.demo.demobatterystatus/com.demo.demobatterystatus.BatteryStatusActivity/android.view.ViewRootImpl@321dd96d
+  15 views, 17.33 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        15
+Total DisplayList:  17.33 kB
+

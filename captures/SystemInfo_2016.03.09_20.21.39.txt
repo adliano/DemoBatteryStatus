@@ -1,0 +1,43 @@
+TASK com.demo.demobatterystatus id=102
+  ACTIVITY com.demo.demobatterystatus/.BatteryStatusActivity 24e1135c pid=22231
+    Local Activity 2bc9108d State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 310mcc260mnc en_US ldltr sw320dp w320dp h455dp 160dpi nrml port finger qwerty/v/v tball/v s.5}
+    FragmentManager misc state:
+      mActivity=com.demo.demobatterystatus.BatteryStatusActivity@2bc9108d
+      mContainer=android.app.Activity$1@32a976a7
+      mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=12077117 (499 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{20789754 V.E..... R....... 0,0-320,480}
+        android.widget.LinearLayout{306c36fd V.E..... ........ 0,0-320,480}
+          android.view.ViewStub{1b82aff2 G.E..... ......I. 0,0-0,0 #102036e}
+          android.widget.FrameLayout{f6cd643 V.E..... ........ 0,25-320,480 #1020002 android:id/content}
+            android.widget.LinearLayout{3571d4c0 V.E..... ........ 0,0-320,455}
+              android.widget.ImageView{3cca45f9 V.ED.... ........ 60,10-260,110 #7f0b0050 app:id/iv_icon_animation}
+              android.widget.TextView{1b07d93e V.ED.... ........ 155,111-165,132 #7f0b0051 app:id/tv_battery_icon}
+              android.widget.TextView{2a7c939f V.ED.... ........ 40,137-280,167 #7f0b0052 app:id/tv_tech}
+              android.widget.TextView{17ff7cec V.ED.... ........ 21,172-298,202 #7f0b0053 app:id/tv_charger}
+              android.widget.TextView{1a6048b5 V.ED.... ........ 64,207-256,237 #7f0b0054 app:id/tv_level}
+              android.widget.TextView{2244b4a V.ED.... ........ 92,242-227,272 #7f0b0055 app:id/tv_volt}
+              android.widget.TextView{3da0cabb V.ED.... ........ 94,277-226,307 #7f0b0056 app:id/tv_amp}
+              android.widget.TextView{2dd7bd8 V.ED.... ........ 61,312-259,342 #7f0b0057 app:id/tv_temp}
+              android.widget.TextView{1519bb31 V.ED.... ........ 92,347-227,377 #7f0b0058 app:id/tv_health}
+        android.view.View{be3d216 V.ED.... ........ 0,0-320,25 #102002f android:id/statusBarBackground}
+    Looper (main, tid 1) {d075797}
+      Message 0: { when=+35ms what=2 arg1=1 obj=android.graphics.drawable.AnimationDrawable@1e9a7d84 target=android.view.Choreographer$FrameHandler }
+      (Total messages: 1, idling=false, quitting=false)

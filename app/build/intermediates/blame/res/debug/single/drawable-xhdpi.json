@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/drawable-xhdpi/level2.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/res/drawable-xhdpi/level2.png"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/drawable-xhdpi/level0.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/res/drawable-xhdpi/level0.png"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/drawable-xhdpi/level3.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/res/drawable-xhdpi/level3.png"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/drawable-xhdpi/level4.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/res/drawable-xhdpi/level4.png"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/drawable-xhdpi/level1.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/res/drawable-xhdpi/level1.png"
+    }
+]

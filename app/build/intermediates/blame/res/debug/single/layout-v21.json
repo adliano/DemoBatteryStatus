@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

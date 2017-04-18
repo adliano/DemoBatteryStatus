@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Author : Adriano Alves
+Date   : Mar 8 2016
+objective : Application to give status of battery
+            practice of Broadcast and animation
+-->
+
+<resources>
+    <string name="app_name">BatteryStatusActivity</string>
+    <string name="no_status">----------</string>
+    <string name="content_description">Battery Icons</string>
+</resources>

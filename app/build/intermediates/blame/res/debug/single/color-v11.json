@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

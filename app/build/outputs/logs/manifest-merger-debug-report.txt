@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:3:7-43
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:6:5-14:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/adliano/.android/build-cache/f468c416f46f0ccffa099db0625cd72154e0da7a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/adliano/.android/build-cache/1f1e9c62a56134ce27974498ae5221725cc57a25/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/adliano/.android/build-cache/1f132f7b6844259bdcd3b95c880e8176ae48d61a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/adliano/.android/build-cache/736696f93b3bb1ab8f0fa9547d2a458a579b48b3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/adliano/.android/build-cache/4c1cf92c6d92a140a29a6c0ec48825c7e9634423/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/adliano/.android/build-cache/ca1c8ef2f12fe3a5a2f7a94c449b4a01284507ba/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/adliano/.android/build-cache/f394200af68dabfda7af85405de96b5a15e40517/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/adliano/.android/build-cache/30d3da0705316f1a06f35848f480c56d33a41d3c/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:6:18-50
+	android:icon
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:6:51-87
+activity#com.demo.demobatterystatus.BatteryStatusActivity
+ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:7:9-13:20
+	android:label
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:8:19-51
+	android:name
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:7:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/adliano/.android/build-cache/f468c416f46f0ccffa099db0625cd72154e0da7a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/adliano/.android/build-cache/1f1e9c62a56134ce27974498ae5221725cc57a25/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/adliano/.android/build-cache/1f132f7b6844259bdcd3b95c880e8176ae48d61a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/adliano/.android/build-cache/736696f93b3bb1ab8f0fa9547d2a458a579b48b3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/adliano/.android/build-cache/4c1cf92c6d92a140a29a6c0ec48825c7e9634423/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/adliano/.android/build-cache/ca1c8ef2f12fe3a5a2f7a94c449b4a01284507ba/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/adliano/.android/build-cache/f394200af68dabfda7af85405de96b5a15e40517/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/adliano/.android/build-cache/30d3da0705316f1a06f35848f480c56d33a41d3c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adliano/AndroidStudioProjects/DemoBatteryStatus/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/adliano/.android/build-cache/f468c416f46f0ccffa099db0625cd72154e0da7a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/adliano/.android/build-cache/1f1e9c62a56134ce27974498ae5221725cc57a25/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/adliano/.android/build-cache/1f132f7b6844259bdcd3b95c880e8176ae48d61a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/adliano/.android/build-cache/736696f93b3bb1ab8f0fa9547d2a458a579b48b3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/adliano/.android/build-cache/4c1cf92c6d92a140a29a6c0ec48825c7e9634423/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/adliano/.android/build-cache/ca1c8ef2f12fe3a5a2f7a94c449b4a01284507ba/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/adliano/.android/build-cache/f394200af68dabfda7af85405de96b5a15e40517/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/adliano/.android/build-cache/30d3da0705316f1a06f35848f480c56d33a41d3c/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/adliano/.android/build-cache/b179e1604034c1e49a45146da46b8eda8b75f0fc/output/AndroidManifest.xml:26:9-47
